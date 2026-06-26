@@ -1,4 +1,5 @@
-Pharmacy Management System (Python)
+Pharmacy Management System
+
 Project Description
 
 The Pharmacy Management System is a comprehensive software application developed using Python to automate and optimize the daily operations of a pharmacy. The project was designed to replace traditional manual record-keeping methods with a digital solution that improves efficiency, accuracy, and accessibility of pharmacy-related data. The system provides an integrated platform for managing medicine inventory, customer information, sales transactions, billing processes, supplier details, and stock monitoring in a centralized environment.
